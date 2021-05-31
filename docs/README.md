@@ -10,13 +10,13 @@ Package repository for CMF (Drupal / Flarum / Hugo / MediaWiki / WordPress / Xen
 - Разработка и локализация ВЕБ-приложений, расширений и визуальных стилей для них.
 - Разработка и сборка пакетов для GNU/Linux.
 
----
+## Repositories
 
 - [Packagist](https://packagist.org/packages/pkgstore/)
 - [Fedora COPR Build System](https://copr.fedorainfracloud.org/coprs/pkgstore/)
 - [openSUSE Build Service](https://build.opensuse.org/users/pkgstore)
 
----
+## Social
 
 - [Twitter](https://twitter.com/pkgstore)
 - [VK](https://vk.com/pkgstore)
