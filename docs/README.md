@@ -5,7 +5,7 @@ Package repository for CMF (Drupal / Flarum / Hugo / MediaWiki / WordPress / Xen
 
 ## Store
 
-- [GitHub Package Store](https://github.com/pkgstore)
+- [**GitHub Package Store**](https://github.com/pkgstore)
 - [Packagist](https://packagist.org/packages/pkgstore)
 - [Fedora COPR Build System](https://copr.fedorainfracloud.org/coprs/pkgstore)
 - [openSUSE Build Service](https://build.opensuse.org/users/pkgstore)
