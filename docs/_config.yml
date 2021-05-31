@@ -1,0 +1,39 @@
+title: "Package Store"
+description: "Package repository for CMF (Drupal / Flarum / Hugo / MediaWiki / WordPress / XenForo) and Linux (Debian / Fedora / RHEL)."
+image: ""
+lang: "ru_RU"
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: ""
+
+author:
+  name: "Kitsune Solar"
+  email: "kitsune.solar@gmail.com"
+  github: "KitsuneSolar"
+  twitter: "KitsuneSolar"
+
+twitter:
+  username: "pkgstore"
+  card: summary
+
+social:
+  name: "pkgstore"
+  links:
+    - https://github.com/pkgstore
+    - https://gitlab.com/pkgstore
+    - https://t.me/pkgstore
+    - https://twitch.tv/pkgstore
+    - https://twitter.com/pkgstore
+    - https://vk.com/pkgstore
+
+webmaster_verifications:
+  google: ""
+  yandex: ""
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jemoji
