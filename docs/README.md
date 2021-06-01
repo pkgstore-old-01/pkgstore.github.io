@@ -3,6 +3,12 @@ Package repository for CMF (Drupal / Flarum / Hugo / MediaWiki / WordPress / Xen
 - Development and localization WEB-applications, extensions and visual styles for them.
 - Development and building packages for GNU/Linux.
 
+## Legend
+
+- `l10n` - localization.
+- `ui` - user interface (style / theme).
+- `ext` - extension (module / plugin).
+
 ## Store
 
 - [**GitHub Package Store**](https://github.com/pkgstore)
