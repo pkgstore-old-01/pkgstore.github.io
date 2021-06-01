@@ -27,3 +27,9 @@ Package repository for CMF (Drupal / Flarum / Hugo / MediaWiki / WordPress / Xen
 - [Patreon](https://patreon.com/pkgstore)
 - [Ko-fi](https://ko-fi.com/pkgstore)
 - [Buy Me a Coffee](https://buymeacoffee.com/pkgstore)
+
+---
+
+## Backup
+
+- [GitLab Package Store](https://gitlab.com/pkgstore)
